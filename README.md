@@ -9,11 +9,11 @@
 
 ## File Description
 * modeling.py: 
-    1. Defining helper functions
-    2. Feature engineering
-    3. Feature selection
-    4. Building model
-    5. Making predictions
+    (1) Defining helper functions
+    (2) Feature engineering
+    (3) Feature selection
+    (4) Building model
+    (5) Making predictions
 
 ## Metrics
 * Spearman Correlation
