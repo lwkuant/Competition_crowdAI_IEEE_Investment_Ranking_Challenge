@@ -1,7 +1,7 @@
 # crowdAI: IEEE Investment Ranking Challenge
 
 ## Competition Description
-[Competiton Page](https://www.crowdai.org/challenges/ieee-investment-ranking-challenge)
+[Competition Page](https://www.crowdai.org/challenges/ieee-investment-ranking-challenge)
 
 ## Result
 * Ranking: 5/194 (Top 3%)
