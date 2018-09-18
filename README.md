@@ -13,4 +13,12 @@
     2. Feature engineering
     3. Feature selection
     4. Building model
-    5. Makeing predictions
+    5. Making predictions
+
+## Metrics
+* Spearman Correlation
+* NDCG
+
+## Experiment Result
+#### Table of performance of each best single model setting
+<img src="https://github.com/lwkuant/Competition_crowdAI_IEEE_Investment_Ranking_Challenge/blob/master/Experiment_Result.png">
